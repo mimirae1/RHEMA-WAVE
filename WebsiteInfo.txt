@@ -1,0 +1,576 @@
+================================================================================
+RHEMA WAVE TECHNOLOGIES — Complete Website Information
+================================================================================
+
+================================================================================
+1. BRAND NAME
+================================================================================
+
+Company Name:       RHEMA WAVE TECHNOLOGIES
+Parent Company:     BG Enterprises, LLC
+Trademark:          RHEMA WAVE TECHNOLOGIES™ is a registered trademark of BG Enterprises, LLC
+Website:            https://rhma-wave-maker.lovable.app/
+Email:              info@rhemawavetech.com
+Phone:              +1 (XXX) XXX-XXXX
+Location:           United States — Serving Nationwide & International
+
+Brand Meaning:      "RHEMA" speaks to a revealed truth — a word that comes alive.
+                    The company sees scalar wave technology as one of those revealed
+                    truths: a powerful, elegant force that has always existed in nature,
+                    now harnessed for human benefit.
+
+
+================================================================================
+2. TAGLINE
+================================================================================
+
+Primary Tagline:    "Advanced Scalar Wave Systems for Health, Wellness & Longevity"
+
+
+================================================================================
+3. ONE-LINER
+================================================================================
+
+"Pioneering scalar wave systems designed to support cellular vitality, deep
+restoration, and elevated well-being for homes, med spas, and functional
+medicine clinics."
+
+
+================================================================================
+4. BRAND VOICE
+================================================================================
+
+Tone:               Premium, scientific-yet-accessible, warm, confidence-inspiring
+Style:              Elegant and authoritative without being clinical. Uses words
+                    like "euphotic," "restorative," "vitality," "coherent," and
+                    "precision-engineered." Balances scientific credibility with
+                    aspirational wellness language.
+Personality:        Trustworthy innovator. Transparent about claims (includes
+                    disclaimers). Positions technology as nature-derived, not
+                    synthetic. Emphasizes experience over hard sell.
+Key Phrases:        "The Euphotic Difference," "The Euphotic Feeling,"
+                    "Where Science Meets Wellness Innovation,"
+                    "Experience the Euphotic Difference"
+Values:             Integrity, People First, Excellence, Innovation
+
+
+================================================================================
+5. COLORS
+================================================================================
+
+PRIMARY BRAND COLORS (Signature Palette):
+  White:                    #ffffff
+  Calming Purple (Light):   #c4b5d8
+  Calming Purple (Deep):    #8b6fad
+  Calming Purple (Pale):    #e8dff5
+  Soft Green (Light):       #a8d5ba
+  Soft Green (Deep):        #6db88a
+  Soft Green (Pale):        #d4ede0
+
+EXTENDED PURPLE SCALE:
+  Purple 50:    #faf5ff
+  Purple 100:   #f3e8ff
+  Purple 200:   #e9d5ff
+  Purple 300:   #d8b4fe
+  Purple 400:   #c084fc
+  Purple 500:   #a855f7
+  Purple 600:   #9333ea
+  Purple 700:   #7e22ce
+  Purple 800:   #6b21a8
+  Purple 900:   #4a1578
+
+EXTENDED GREEN SCALE:
+  Green 50:     #f0fdf4
+  Green 100:    #dcfce7
+  Green 200:    #bbf7d0
+  Green 300:    #86efac
+  Green 400:    #4ade80
+  Green 500:    #22c55e
+  Green 600:    #16a34a
+
+NEUTRALS:
+  Gray 50:      #fafafa
+  Gray 100:     #f5f5f5
+  Gray 200:     #e5e5e5
+  Gray 300:     #d4d4d4
+  Gray 400:     #a3a3a3
+  Gray 500:     #737373
+  Gray 600:     #525252
+  Gray 700:     #404040
+  Gray 800:     #262626
+  Gray 900:     #171717
+
+FUNCTIONAL COLORS:
+  Background Primary:       #ffffff
+  Background Secondary:     #faf8fd
+  Background Dark:          #1a1225
+  Background Dark Purple:   #2d1f3d
+  Text Primary:             #1a1225
+  Text Secondary:           #525252
+  Text Light:               #ffffff
+  Text Muted:               #737373
+
+GRADIENTS:
+  Primary Gradient:         135deg, Calming Purple (#c4b5d8) → Soft Green (#a8d5ba)
+  Hero Gradient:            135deg, rgba(139,111,173,0.9) → rgba(109,184,138,0.6)
+  Dark Gradient:            135deg, #1a1225 → #2d1f3d → #1a2e1f
+  Card Gradient:            180deg, rgba(232,223,245,0.3) → rgba(212,237,224,0.3)
+
+TYPOGRAPHY:
+  Display Font:             Cormorant Garamond (serif) — weights: 300-700
+  Body Font:                Montserrat (sans-serif) — weights: 300-700
+
+
+================================================================================
+6. NAVIGATION MENU
+================================================================================
+
+Main Navigation Items:
+  1. Home              → index.html
+  2. About             → about.html
+  3. The Science       → technology.html
+  4. Systems           → products.html
+  5. Commercial        → commercial.html
+  6. Gallery           → gallery.html
+  7. Testimonials      → testimonials.html
+  8. Book a Consultation (CTA button) → contact.html
+
+Logo:                 "RHEMA WAVE" (display font, large)
+                      "TECHNOLOGIES" (body font, small, uppercase, letter-spaced)
+
+Nav Behavior:         Fixed top, transparent on hero, frosted white on scroll
+                      (rgba(255,255,255,0.95) with backdrop blur)
+
+
+================================================================================
+7. HERO SECTION
+================================================================================
+
+Badge:                "Advanced Scalar Wave Technology"
+
+Headline:             "Experience the
+                       Euphotic Difference"
+                      ("Euphotic Difference" uses purple-to-green gradient text)
+
+Subtitle:             "Pioneering scalar wave systems designed to support cellular
+                       vitality, deep restoration, and elevated well-being for
+                       homes, med spas, and functional medicine clinics."
+
+Primary CTA:          "Explore Our Systems" → products.html
+Secondary CTA:        "Schedule a Demo" → contact.html
+
+Scroll Indicator:     "Discover More" with animated down-arrow
+
+Background:           Full-screen looping video (hero-bg.mp4) with dark overlay
+                      using the dark gradient
+
+
+================================================================================
+8. HEADERS / BACKGROUNDS
+================================================================================
+
+PAGE HEADERS (Sub-pages):
+  Style:              Dark gradient background (#1a1225 → #2d1f3d → #1a2e1f)
+                      White text, centered layout
+                      Section label in uppercase, letter-spaced
+                      Padding: 160px top, 80px bottom
+
+  About Page:
+    Label:            "Our Story"
+    Heading:          "About RHEMA WAVE"
+    Subheading:       "Bringing the science of scalar wave energy to those who
+                       seek deeper wellness, vitality, and longevity."
+
+  The Science Page:
+    Label:            "The Science"
+    Heading:          "Understanding Scalar Waves"
+    Subheading:       "The physics, the biology, and the experience — demystified."
+
+  Systems Page:
+    Label:            "Our Systems"
+    Heading:          "Scalar Wave Wellness Systems"
+    Subheading:       "From portable personal units to full residential
+                       installations. Available in our signature white, calming
+                       purple, and soft green."
+
+  Commercial Page:
+    Label:            "For Businesses"
+    Heading:          "Commercial Solutions"
+    Subheading:       "Premium scalar wave systems engineered for med spas,
+                       functional medicine clinics, and wellness centers."
+
+  Contact Page:
+    Label:            "Let's Connect"
+    Heading:          "Book Your Consultation"
+    Subheading:       "Whether you're exploring for yourself or your practice,
+                       we're here to guide you."
+
+  Gallery Page:
+    Label:            "Visual Experience"
+    Heading:          "Gallery & Media"
+    Subheading:       "See our scalar wave systems in action."
+
+  Testimonials Page:
+    Label:            "Real Experiences"
+    Heading:          "What People Are Saying"
+    Subheading:       "Hear from individuals, practitioners, and wellness center
+                       owners who have experienced the RHEMA WAVE difference."
+
+SECTION BACKGROUNDS:
+  Light Sections:     #ffffff (primary) or #faf8fd (secondary/alternating)
+  Dark Sections:      Dark gradient (Benefits section, CTA sections, page headers)
+  Accent Elements:    Floating purple and green glowing orbs on image sections
+
+
+================================================================================
+9. SCROLL AREAS
+================================================================================
+
+HOME PAGE SCROLL SECTIONS (in order):
+  1. Hero (full-screen video background)
+  2. Intro / Value Proposition ("Where Science Meets Wellness Innovation")
+     — Stats: 70-90 Optimal Cellular Millivolt Range | 16+ Therapeutic Programs | 24/7 Continuous Field Generation
+  3. How It Works — "How Scalar Wave Technology Works" (4 process cards)
+  4. Featured Systems Preview — "Scalar Wave Systems for Every Space" (2 system cards)
+  5. Benefits — "Reported Benefits" (dark background, 6 benefit items)
+  6. Video Showcase — "The Scalar Wave Experience"
+  7. Who It's For — "Transforming Wellness Across Industries" (3 audience cards)
+  8. Testimonials — "What People Are Saying" (carousel, 3 testimonials)
+  9. CTA — "Ready to Experience the Euphotic Difference?"
+  10. Footer
+
+PRODUCTS PAGE SCROLL SECTIONS:
+  1. Page Header
+  2. Product Intro — "Choose Your Path to Wellness"
+  3. Personal Collection — Portable & Personal Systems (4 products)
+  4. Residential Collection — Multi-Unit Systems (4 products)
+  5. Accessories — Bio-Scalar Enhanced Products (1 product)
+  6. Consultation CTA — "Not Sure Which System? Let Us Guide You"
+  7. Footer
+
+COMMERCIAL PAGE SCROLL SECTIONS:
+  1. Page Header
+  2. The Opportunity — "Differentiate Your Practice"
+  3. Commercial Systems — "Built for Business" (3 systems)
+  4. Business Benefits — "Why Practices Choose RHEMA WAVE" (4 cards)
+  5. CTA — "Ready to Elevate Your Practice?"
+  6. Footer
+
+Animations:           Fade-in and fade-up on scroll (staggered delays)
+
+
+================================================================================
+10. FEATURES SECTION
+================================================================================
+
+HOW IT WORKS — 4 PROCESS CARDS:
+
+  1. Scalar Field Generation
+     "Precision-engineered electromagnetic waves are generated in perfect
+     opposing alignment, creating a stable scalar energy field through
+     phase cancellation."
+
+  2. Bio-Photonic Light
+     "Polychromatic light frequencies are synchronized with the scalar field,
+     creating a morphogenic energy environment that bathes your entire space
+     in restorative energy."
+
+  3. Cellular Resonance
+     "When your body enters the scalar wave field, it naturally entrains to
+     the coherent energy, supporting cellular voltage optimization toward
+     the ideal 70-90 millivolt range."
+
+  4. Whole-Body Restoration
+     "Experience deep relaxation, mental clarity, and revitalized energy as
+     your body's natural regenerative processes are supported by the
+     continuous scalar field."
+
+REPORTED BENEFITS — 6 ITEMS (dark background section):
+
+  1. Cellular Regeneration
+     "Support your body's natural ability to repair and regenerate at the
+     cellular level."
+
+  2. Deep Relaxation
+     "Experience profound states of calm, reducing stress and promoting
+     mental clarity."
+
+  3. Energy & Vitality
+     "Feel revitalized as your cellular voltage optimizes toward its
+     natural potential."
+
+  4. Immune Support
+     "Encourage healthy immune function through bio-active scalar field
+     exposure."
+
+  5. Detoxification
+     "Support your body's natural detox pathways for improved overall
+     wellness."
+
+  6. EMF Harmonization
+     "Scalar fields help transmute disruptive electromagnetic frequencies
+     in your environment."
+
+THE BIOLOGY — 6 ITEMS (Science page):
+
+  1. Cellular Voltage Optimization
+     "Healthy cells operate between 70-90 millivolts. Scalar fields are
+     reported to support cells in reaching and maintaining this optimal
+     voltage range."
+
+  2. Immune & Neurotransmitter Activity
+     "Third-party research suggests bio-scalar energy may enhance immune
+     function and neurotransmitter activity."
+
+  3. EMF Transmutation
+     "Rather than blocking disruptive electromagnetic frequencies, scalar
+     fields are said to transmute them."
+
+  4. Mitochondrial & Stem Cell Support
+     "Users and researchers report heightened mitochondrial activity and
+     improved stem cell function."
+
+  5. Brain Hemisphere Balancing
+     "Scalar fields are associated with facilitating balance between the
+     left and right brain hemispheres."
+
+  6. Circulation & Detoxification
+     "Improved circulation and support for the body's natural
+     detoxification pathways."
+
+BUSINESS BENEFITS — 4 ITEMS (Commercial page):
+
+  1. New Revenue Stream
+     "Centers worldwide charge $50-$60+ per hour per client, with group
+     sessions maximizing per-room revenue."
+
+  2. Client Retention
+     "Clients report cumulative benefits with consistent sessions, driving
+     recurring bookings."
+
+  3. Competitive Edge
+     "Stand out in the crowded wellness marketplace with technology most
+     practices don't have."
+
+  4. Training & Support
+     "Onboarding training, marketing materials, and ongoing technical
+     support."
+
+CORE VALUES — 4 ITEMS (About page):
+
+  1. Integrity
+     "We are transparent about what our technology does and does not claim."
+
+  2. People First
+     "Every system we build is designed with the end user in mind."
+
+  3. Excellence
+     "Every unit is precision-calibrated and backed by our commitment
+     to quality."
+
+  4. Innovation
+     "We continuously refine and advance our technology, drawing from
+     decades of research."
+
+
+================================================================================
+11. PRICING SECTION
+================================================================================
+
+PORTABLE & PERSONAL SYSTEMS:
+
+  The Cube (Portable)                         Contact for Pricing
+  The Sphere (Advanced Personal, 18")         Contact for Pricing
+  The Pyramid (Signature Personal)            Contact for Pricing
+  The Chair (Premium Personal)                Contact for Pricing
+
+RESIDENTIAL MULTI-UNIT SYSTEMS:
+
+  4-Unit Scalar System (Starter)              Starting at $26,000 + installation
+  8-Unit Scalar System (Enhanced, Popular)    Contact for Pricing
+  12-Unit Journey System (Dual Use)           Starting at $60,000 + installation
+  Compact QBE Unit (Space-Saving)             Contact for Pricing
+
+COMMERCIAL SYSTEMS:
+
+  The Journey — 12-Unit (Small Commercial)    Starting at $60,000 + installation
+  The Dream — 24-Unit (Most Popular)          Starting at $114,000 + installation
+  The Awakening — 32-Unit (Flagship)          Contact for Pricing
+
+ACCESSORIES:
+
+  Bio-Scalar Enhanced Wearables               Contact for Pricing
+    - Scalar-charged pendants & jewelry
+    - Bio-enhanced wellness bands
+    - Scalar energy patches
+    - Charged water structuring devices
+    - Personal field harmonizers
+
+NOTE: All residential and commercial multi-unit systems include USA shipping,
+professional installation & laser calibration, one-time license fee, laser
+calibration kit, and 1-year warranty.
+
+
+================================================================================
+12. CALLS TO ACTION
+================================================================================
+
+PRIMARY CTAs (gradient purple-to-green buttons):
+  "Explore Our Systems"                       → products.html
+  "View Residential Systems"                  → products.html
+  "View Commercial Solutions"                 → commercial.html
+  "View Full Gallery"                         → gallery.html
+  "View All Systems"                          → products.html
+  "Book Your Consultation"                    → contact.html
+  "Book Free Consultation"                    → contact.html
+  "Book Commercial Consultation"              → contact.html
+  "Schedule Consultation"                     → contact.html
+  "Schedule a Demo"                           → contact.html
+  "Request Quote"                             → contact.html
+  "Request Commercial Quote"                  → contact.html
+  "Experience It Yourself"                    → contact.html
+  "Get In Touch"                              → contact.html
+  "Get Started"                               → contact.html
+  "Learn More"                                → contact.html
+  "Submit Inquiry"                            (form submit)
+
+SECONDARY CTAs (outline/ghost buttons):
+  "Schedule a Demo"                           → contact.html (hero)
+  "Call Us Today"                             → tel: link
+  "View All Systems"                          → products.html
+
+NAVIGATION CTA:
+  "Book a Consultation"                       → contact.html (always in nav bar)
+
+INLINE TEXT LINKS:
+  "Explore Residential →"                     → products.html
+  "Explore Med Spa Solutions →"               → commercial.html
+  "Explore Clinical Solutions →"              → commercial.html
+
+
+================================================================================
+13. CARDS
+================================================================================
+
+SYSTEM PREVIEW CARDS (Home page — 2 cards):
+
+  Card 1: Residential — Personal Wellness Systems
+    Badge: "Most Popular"
+    Image: residential-system.jpg
+    Category: Residential
+    Title: "Personal Wellness Systems"
+    Description: "Bring the power of scalar wave technology into your home..."
+    Highlights: 4 bullet points (compact design, 4-24 units, self-assembly, 16+ programs)
+    CTA: "View Residential Systems"
+
+  Card 2: Commercial — Med Spa & Clinical Systems
+    Badge: "Enterprise" (green badge)
+    Image: commercial-system.jpg
+    Category: Commercial
+    Title: "Med Spa & Clinical Systems"
+    Description: "Differentiate your practice with the most advanced wellness technology..."
+    Highlights: 4 bullet points (12-32+ units, med spas & clinics, pro install, training)
+    CTA: "View Commercial Solutions"
+
+PROCESS CARDS (How It Works — 4 cards):
+    Icon + Title + Description (see Features Section above)
+
+PRODUCT CARDS (Systems page — 9 cards):
+  Personal: The Cube, The Sphere, The Pyramid, The Chair
+  Residential: 4-Unit, 8-Unit, 12-Unit Journey, Compact QBE
+  Accessories: Bio-Scalar Enhanced Wearables
+  Each card: Image, badge, category label, title, price, description,
+             "Package Includes" list, CTA button
+
+COMMERCIAL PRODUCT CARDS (Commercial page — 3 cards):
+  The Journey (12-Unit), The Dream (24-Unit), The Awakening (32-Unit)
+  Each card: Image, badge, category label, title, price, description,
+             "Package Includes" list, CTA button
+
+AUDIENCE CARDS (Who It's For — 3 cards):
+  Individuals & Families, Med Spas, Functional Medicine Clinics
+  Each card: Image, title, description, arrow link
+
+BENEFIT CARDS (Reported Benefits — 6 cards, dark background):
+  Each card: Unicode icon, title, short description
+
+TESTIMONIAL CARDS (Carousel — 3 on home, 6 on testimonials page):
+  Each card: 5-star rating, blockquote, author name, author title
+
+VALUE CARDS (About page — 4 cards):
+  Integrity, People First, Excellence, Innovation
+  Each card: SVG icon, title, description
+
+
+================================================================================
+14. FOOTER
+================================================================================
+
+FOOTER LOGO & BRAND:
+  Logo:               "RHEMA WAVE" / "TECHNOLOGIES"
+  Tagline:            "Advanced Scalar Wave Systems for Health, Wellness & Longevity"
+
+SOCIAL MEDIA LINKS:
+  Facebook, Instagram, YouTube, LinkedIn (placeholder # links)
+
+FOOTER LINK COLUMNS:
+
+  Systems:
+    - Residential Systems       → products.html
+    - Commercial Systems        → commercial.html
+    - Portable Units            → products.html#portable
+    - Accessories               → products.html#accessories
+
+  Company:
+    - About Us                  → about.html
+    - The Science               → technology.html
+    - Gallery                   → gallery.html
+    - Testimonials              → testimonials.html
+    - Contact                   → contact.html
+
+  Legal:
+    - Privacy Policy            → privacy.html
+    - Terms & Conditions        → terms.html
+    - Cookie Policy             → cookies.html
+    - Disclaimer                → disclaimer.html
+    - Refund Policy             → refund.html
+
+  Get In Touch:
+    - info@rhemawavetech.com
+    - +1 (XXX) XXX-XXXX
+    - United States
+
+FOOTER DISCLAIMERS:
+
+  Medical Disclaimer:
+    "RHEMA WAVE TECHNOLOGIES systems are not medical devices. They are not
+    intended to diagnose, treat, cure, or prevent any disease or medical
+    condition. The technology has not been evaluated or approved by the FDA.
+    Individual results may vary. The information provided on this website is
+    for educational and informational purposes only and is not intended as a
+    substitute for professional medical advice, diagnosis, or treatment.
+    Always seek the advice of your physician or other qualified health
+    provider with any questions you may have regarding a medical condition.
+    Never disregard professional medical advice or delay in seeking it
+    because of something you have read on this website."
+
+  Earnings Disclaimer:
+    "Any income or revenue examples shown are not guarantees of earnings.
+    Results vary based on individual effort, market conditions, and other
+    factors. Past performance does not guarantee future results."
+
+  Results Disclaimer:
+    "Testimonials and statements regarding the benefits of scalar wave
+    technology reflect individual experiences. These experiences are not
+    typical and your results may differ. The reported benefits are based
+    on personal accounts and have not been independently verified through
+    peer-reviewed clinical trials."
+
+COPYRIGHT:
+  "© [Year] RHEMA WAVE TECHNOLOGIES — BG Enterprises, LLC. All Rights Reserved."
+  "RHEMA WAVE TECHNOLOGIES™ is a registered trademark of BG Enterprises, LLC."
+
+
+================================================================================
+END OF WEBSITE INFORMATION
+================================================================================
